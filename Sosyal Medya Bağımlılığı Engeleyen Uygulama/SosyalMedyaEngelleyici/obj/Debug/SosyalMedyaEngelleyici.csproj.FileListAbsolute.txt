@@ -1,0 +1,15 @@
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\bin\Debug\SosyalMedyaEngelleyici.exe.config
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\bin\Debug\SosyalMedyaEngelleyici.exe
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\bin\Debug\SosyalMedyaEngelleyici.pdb
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\obj\Debug\SosyalMedyaEngelleyici.csproj.AssemblyReference.cache
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\obj\Debug\SosyalMedyaEngelleyici.Form1.resources
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\obj\Debug\SosyalMedyaEngelleyici.Properties.Resources.resources
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\obj\Debug\SosyalMedyaEngelleyici.csproj.GenerateResource.cache
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\obj\Debug\SosyalMedyaEngelleyici.csproj.CoreCompileInputs.cache
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\obj\Debug\SosyalMedyaEngelleyici.exe
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\obj\Debug\SosyalMedyaEngelleyici.pdb
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\bin\Debug\error.wav
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\obj\Debug\Interop.WMPLib.dll
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\obj\Debug\SosyalMedyaEngelleyici.csproj.ResolveComReference.cache
+C:\Users\Beşir\Desktop\Sosyal Medya Bağımlılığı Engeleyen Uygulama\SosyalMedyaEngelleyici\obj\Debug\SosyalMedyaEngelleyici.exe.config
